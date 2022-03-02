@@ -1,0 +1,17 @@
+Rules of the game:
+Life and damage characteristics are random.
+for 1 move, you can choose 1 action.
+
+there are 4 actions (3 strikes and 1 block).
+1)punch (deals base damage, 66% chance of hitting an enemy)
+2)strong strike(deals base damage+1, 42% chance of hitting an enemy)
+3)low kick (deals base damage+3, 25% chance of hitting an enemy)
+4)block (blocks the enemy's attack if it is not critical
+, the critical attack doubles the damage if there is no block, otherwise standard damage is inflicted
+
+SHOP :
+1)ring of power (+1 to damage, costs 10 money)
+2)skill book (increases the chance of hitting and critical hit, costs 8 money)
+3)sandwich (adds 9 HP, costs 9 money)
+
+for a defeated enemy, 2 to 5 coins are given randomly
